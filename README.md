@@ -1,8 +1,9 @@
 # Datascience
 
-## Data repositories
+## Datasets
 
-* [Data and code behind the articles and graphics at FiveThirtyEight](https://github.com/fivethirtyeight/data)
+* [FiveThirtyEight: Data and code behind the articles and graphics](https://github.com/fivethirtyeight/data)
+* [Kaggle datasets](https://www.kaggle.com/datasets)
 
 ## Books
 
