@@ -2,7 +2,7 @@
 
 ## Data repositories
 
-* FiveThirtyEight (data and code) https://github.com/fivethirtyeight/data
+* [Data and code behind the articles and graphics at FiveThirtyEight](https://github.com/fivethirtyeight/data)
 
 ## Books
 
