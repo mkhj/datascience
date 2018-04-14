@@ -4,6 +4,13 @@
 
 * [FiveThirtyEight: Data and code behind the articles and graphics](https://github.com/fivethirtyeight/data)
 * [Kaggle datasets](https://www.kaggle.com/datasets)
+* [KDnuggets Dataset](https://www.kdnuggets.com/datasets/index.html)
+* [UCI's Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
+* [World Bank](https://data.worldbank.org/)
+* [World Health Organization](http://www.who.int/gho/en/)
+* [Canada's Open Data Exchange](https://codx.ca/)
+* [UK Government Data](https://data.gov.uk/)
+* [US Government Data](https://www.data.gov/)
 
 ## Books
 
