@@ -5,6 +5,7 @@
 * [FiveThirtyEight: Data and code behind the articles and graphics](https://github.com/fivethirtyeight/data)
 * [Kaggle datasets](https://www.kaggle.com/datasets)
 * [KDnuggets Dataset](https://www.kdnuggets.com/datasets/index.html)
+* [Seaborn datasets](https://github.com/mwaskom/seaborn-data)
 * [UCI's Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
 * [World Bank](https://data.worldbank.org/)
 * [World Health Organization](http://www.who.int/gho/en/)
