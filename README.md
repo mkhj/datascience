@@ -1,5 +1,14 @@
 # Datascience
 
+## Cheatsheet
+
+* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - [Table generator](https://www.tablesgenerator.com/markdown_tables)
+
+## Books
+
+* [Pattern Recognition and Machine Learning - Christopher M. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+* [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+
 ## Datasets
 
 * [FiveThirtyEight: Data and code behind the articles and graphics](https://github.com/fivethirtyeight/data)
@@ -12,12 +21,9 @@
 * [Canada's Open Data Exchange](https://codx.ca/)
 * [UK Government Data](https://data.gov.uk/)
 * [US Government Data](https://www.data.gov/)
+* [UNICEF Data](https://data.unicef.org/)
 
-## Books
+## Resources for online courses
 
-* [Pattern Recognition and Machine Learning - Christopher M. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
-* [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+* [Introduction to data science in python](https://github.com/sidsriv/Introduction-to-Data-Science-in-python)
 
-## Cheatsheet
-
-* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - [Table generator](https://www.tablesgenerator.com/markdown_tables)
