@@ -27,3 +27,6 @@
 
 * [Introduction to data science in python](https://github.com/sidsriv/Introduction-to-Data-Science-in-python)
 
+## Version control
+
+* [Using GitHub Desktop with GitLab](https://community.reclaimhosting.com/t/using-github-desktop-with-gitlab/876)
