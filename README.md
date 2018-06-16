@@ -22,6 +22,7 @@
 * [UK Government Data](https://data.gov.uk/)
 * [US Government Data](https://www.data.gov/)
 * [UNICEF Data](https://data.unicef.org/)
+* [IBM Sample Data Sets](https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/)
 
 ## Resources for online courses
 
