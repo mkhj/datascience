@@ -19,10 +19,6 @@
 
 * [How to Write a Spelling Corrector - Peter Norvig](http://norvig.com/spell-correct.html)
 
-## Guides
-
-* [Introduction to SQLAlchemy and Jupyter Notebooks](https://github.com/LeeBergstrand/Jupyter-SQLAlchemy-Tutorial/blob/master/Jupyter-SQLAlchemy.ipynb)
-
 ## Datasets
 
 * [FiveThirtyEight: Data and code behind the articles and graphics](https://github.com/fivethirtyeight/data)
@@ -45,3 +41,7 @@
 ## Version control
 
 * [Using GitHub Desktop with GitLab](https://community.reclaimhosting.com/t/using-github-desktop-with-gitlab/876)
+
+## Other
+
+* [Introduction to SQLAlchemy and Jupyter Notebooks](https://github.com/LeeBergstrand/Jupyter-SQLAlchemy-Tutorial/blob/master/Jupyter-SQLAlchemy.ipynb)
