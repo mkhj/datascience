@@ -34,6 +34,10 @@
 * [UNICEF Data](https://data.unicef.org/)
 * [IBM Sample Data Sets](https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/)
 
+## Useful packages
+
+* [scrubadub - Remove personally identifiable information from free text](http://scrubadub.readthedocs.io/en/stable/index.html)
+
 ## Resources for online courses
 
 * [Introduction to data science in python](https://github.com/sidsriv/Introduction-to-Data-Science-in-python)
