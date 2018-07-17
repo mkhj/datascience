@@ -15,6 +15,10 @@
 * [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 * [Programming Collective Intelligence](https://github.com/arthur-e/Programming-Collective-Intelligence)
 
+## Guides
+
+* [Introduction to SQLAlchemy and Jupyter Notebooks](https://github.com/LeeBergstrand/Jupyter-SQLAlchemy-Tutorial/blob/master/Jupyter-SQLAlchemy.ipynb)
+
 ## Datasets
 
 * [FiveThirtyEight: Data and code behind the articles and graphics](https://github.com/fivethirtyeight/data)
