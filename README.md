@@ -15,6 +15,10 @@
 * [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 * [Programming Collective Intelligence](https://github.com/arthur-e/Programming-Collective-Intelligence)
 
+## Articles
+
+* [How to Write a Spelling Corrector - Peter Norvig](http://norvig.com/spell-correct.html)
+
 ## Guides
 
 * [Introduction to SQLAlchemy and Jupyter Notebooks](https://github.com/LeeBergstrand/Jupyter-SQLAlchemy-Tutorial/blob/master/Jupyter-SQLAlchemy.ipynb)
