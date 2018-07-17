@@ -9,7 +9,7 @@
 * [Pattern Recognition and Machine Learning - Christopher M. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 * [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 
-## Resources for online books
+## Examples from books
 
 * [Real-World Machine Learning](https://github.com/brinkar/real-world-machine-learning)
 * [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
