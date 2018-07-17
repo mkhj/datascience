@@ -1,4 +1,4 @@
-# Datascience
+# Data science
 
 ## Cheatsheet
 
