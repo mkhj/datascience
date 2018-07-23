@@ -11,6 +11,7 @@
 
 ## Examples from books
 
+* [Applied Text Analysis with Python](https://github.com/foxbook/atap)
 * [Real-World Machine Learning](https://github.com/brinkar/real-world-machine-learning)
 * [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 * [Programming Collective Intelligence](https://github.com/arthur-e/Programming-Collective-Intelligence)
