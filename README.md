@@ -17,6 +17,10 @@
 * [Programming Collective Intelligence](https://github.com/arthur-e/Programming-Collective-Intelligence)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
+## Guides
+
+* [Introduction to spaCy for NLP and Machine Learning](https://github.com/NSchrading/intro-spacy-nlp)
+
 ## Articles
 
 * [How to Write a Spelling Corrector - Peter Norvig](http://norvig.com/spell-correct.html)
