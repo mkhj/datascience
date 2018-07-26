@@ -42,6 +42,7 @@
 
 ## Useful packages
 
+* [strip output from Jupyter and IPython notebooks](https://github.com/kynan/nbstripout)
 * [scrubadub - Remove personally identifiable information from free text](http://scrubadub.readthedocs.io/en/stable/index.html)
 
 ## Resources for online courses
