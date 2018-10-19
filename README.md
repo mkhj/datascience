@@ -4,19 +4,6 @@
 
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - [Table generator](https://www.tablesgenerator.com/markdown_tables)
 
-## Books
-
-* [Pattern Recognition and Machine Learning - Christopher M. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
-* [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
-
-## Examples from books
-
-* [Applied Text Analysis with Python](https://github.com/foxbook/atap)
-* [Real-World Machine Learning](https://github.com/brinkar/real-world-machine-learning)
-* [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
-* [Programming Collective Intelligence](https://github.com/arthur-e/Programming-Collective-Intelligence)
-* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-
 ## Guides
 
 * [Introduction to spaCy for NLP and Machine Learning](https://github.com/NSchrading/intro-spacy-nlp)
@@ -24,6 +11,19 @@
 ## Articles
 
 * [How to Write a Spelling Corrector - Peter Norvig](http://norvig.com/spell-correct.html)
+
+## Books
+
+* [Pattern Recognition and Machine Learning - Christopher M. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+* [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+
+### Online resources from books
+
+* [Applied Text Analysis with Python](https://github.com/foxbook/atap)
+* [Real-World Machine Learning](https://github.com/brinkar/real-world-machine-learning)
+* [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
+* [Programming Collective Intelligence](https://github.com/arthur-e/Programming-Collective-Intelligence)
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ## Datasets
 
