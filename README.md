@@ -40,17 +40,6 @@
 * [UNICEF Data](https://data.unicef.org/)
 * [IBM Sample Data Sets](https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/)
 
-## Database & ORM
-
-### SQLAlchemy
-* [Connect to Microsoft SQL Server](https://docs.sqlalchemy.org/en/latest/dialects/mssql.html#module-sqlalchemy.dialects.mssql.pyodbc)
-
-#### SQLAlchemy Troubleshooting
-
-**Error message: Library not loaded: /usr/local/opt/unixodbc/lib/libodbc.2.dylib**
-If you get the above error when trying to connect to a MSSQL database using SQLAlchemy then follow the link to install MS ODBC driver
-* [Installing the Microsoft ODBC Driver for SQL Server on Linux and macOS](https://docs.microsoft.com/en-us/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server?view=sql-server-2017)
-
 ## Useful packages
 
 * [strip output from Jupyter and IPython notebooks](https://github.com/kynan/nbstripout)
@@ -64,6 +53,17 @@ If you get the above error when trying to connect to a MSSQL database using SQLA
 
 * [Using GitHub Desktop with GitLab](https://community.reclaimhosting.com/t/using-github-desktop-with-gitlab/876)
 
-## Other
+## Database & ORM
 
+### SQLAlchemy
 * [Introduction to SQLAlchemy and Jupyter Notebooks](https://github.com/LeeBergstrand/Jupyter-SQLAlchemy-Tutorial/blob/master/Jupyter-SQLAlchemy.ipynb)
+* [Connect to Microsoft SQL Server](https://docs.sqlalchemy.org/en/latest/dialects/mssql.html#module-sqlalchemy.dialects.mssql.pyodbc)
+
+#### SQLAlchemy Troubleshooting
+
+##### Error message: Library not loaded: /usr/local/opt/unixodbc/lib/libodbc.2.dylib
+If you get the above error when trying to connect to a MSSQL database using SQLAlchemy then follow the link to install MS ODBC driver
+* [Installing the Microsoft ODBC Driver for SQL Server on Linux and macOS](https://docs.microsoft.com/en-us/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server?view=sql-server-2017)
+
+
+
