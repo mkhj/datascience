@@ -4,10 +4,6 @@
 
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - [Table generator](https://www.tablesgenerator.com/markdown_tables)
 
-## Guides
-
-* [Introduction to spaCy for NLP and Machine Learning](https://github.com/NSchrading/intro-spacy-nlp)
-
 ## Articles
 
 * [How to Write a Spelling Corrector - Peter Norvig](http://norvig.com/spell-correct.html)
@@ -24,6 +20,10 @@
 * [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 * [Programming Collective Intelligence](https://github.com/arthur-e/Programming-Collective-Intelligence)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+## Version control
+
+* [Using GitHub Desktop with GitLab](https://community.reclaimhosting.com/t/using-github-desktop-with-gitlab/876)
 
 ## Datasets
 
@@ -49,9 +49,12 @@
 
 * [Introduction to data science in python](https://github.com/sidsriv/Introduction-to-Data-Science-in-python)
 
-## Version control
+## Natural language processing (NLP)
 
-* [Using GitHub Desktop with GitLab](https://community.reclaimhosting.com/t/using-github-desktop-with-gitlab/876)
+### SpaCy
+
+#### Guide
+* [Introduction to spaCy for NLP and Machine Learning](https://github.com/NSchrading/intro-spacy-nlp)
 
 ## Database & ORM
 
