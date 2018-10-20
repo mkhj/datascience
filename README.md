@@ -61,7 +61,7 @@
 
 #### Guide
 * [Parameterize Database Queries](https://security.openstack.org/guidelines/dg_parameterize-database-queries.html)
-* [SQL Expression Language Tutorial](https://docs.sqlalchemy.org/en/latest/core/tutorial.html)
+* [SQL Expression Language Tutorial](https://docs.sqlalchemy.org/en/latest/core/tutorial.html) 
 
 #### SQLAlchemy Troubleshooting
 
