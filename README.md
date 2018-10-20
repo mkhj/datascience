@@ -59,6 +59,10 @@
 * [Introduction to SQLAlchemy and Jupyter Notebooks](https://github.com/LeeBergstrand/Jupyter-SQLAlchemy-Tutorial/blob/master/Jupyter-SQLAlchemy.ipynb)
 * [Connect to Microsoft SQL Server](https://docs.sqlalchemy.org/en/latest/dialects/mssql.html#module-sqlalchemy.dialects.mssql.pyodbc)
 
+#### Guide
+* (Parameterize Database Queries)[https://security.openstack.org/guidelines/dg_parameterize-database-queries.html]
+* (SQL Expression Language Tutorial)[https://docs.sqlalchemy.org/en/latest/core/tutorial.html]
+
 #### SQLAlchemy Troubleshooting
 
 ##### Error message: Library not loaded: /usr/local/opt/unixodbc/lib/libodbc.2.dylib
