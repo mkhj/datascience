@@ -65,5 +65,5 @@
 If you get the above error when trying to connect to a MSSQL database using SQLAlchemy then follow the link to install MS ODBC driver
 * [Installing the Microsoft ODBC Driver for SQL Server on Linux and macOS](https://docs.microsoft.com/en-us/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server?view=sql-server-2017)
 
-
-
+##### Error message: ylibc++abi.dylib: terminating with uncaught exception of type std::runtime_error
+* Try using "ODBC Driver 13 for SQL Server" if you receive this error when using "ODBC Driver 17 for SQL Server"
