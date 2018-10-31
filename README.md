@@ -1,7 +1,11 @@
 # Data science
 
-## Cheatsheet
+## Tips & Tricks
 
+#### Cheatsheats
+
+* [Data science](https://github.com/mkhj/Data-science/tree/master/Cheat%20sheets)
+* [Python Debugger](https://github.com/mkhj/Data-science/blob/master/Cheat%20sheets/Python%20Debugger%20Cheatsheet.pdf)
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - [Table generator](https://www.tablesgenerator.com/markdown_tables)
 
 ## Articles
