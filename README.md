@@ -5,7 +5,8 @@
 * [Download Anaconda Distribution](https://www.anaconda.com/download/#macos)
 * [Installing Anaconda on Mac OS X](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x)
 
-Note: If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try executing _'source ~/.bash_profile'_
+#### Troubleshooting
+If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try executing _'source ~/.bash_profile'_
 
 ## Tips & Tricks
 
