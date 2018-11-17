@@ -4,6 +4,7 @@
 
 * [Download Anaconda Distribution](https://www.anaconda.com/download/#macos)
 * [Installing Anaconda on Mac OS X](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x)
+* [Using GitHub Desktop with GitLab](https://community.reclaimhosting.com/t/using-github-desktop-with-gitlab/876)
 
 #### Troubleshooting
 If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try executing _'source ~/.bash_profile'_
@@ -16,27 +17,29 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 * [Python Debugger](https://github.com/mkhj/Data-science/blob/master/Cheat%20sheets/Python%20Debugger%20Cheatsheet.pdf)
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - [Table generator](https://www.tablesgenerator.com/markdown_tables)
 
-## Articles
-
-* [How to Write a Spelling Corrector - Peter Norvig](http://norvig.com/spell-correct.html)
-
 ## Books
 
 * [Pattern Recognition and Machine Learning - Christopher M. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 * [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
-* [Applied Text Analysis with Python](https://www.amazon.com/Applied-Text-Analysis-Python-Language-Aware/dp/1491963042)
+* [Applied Text Analysis with Python](https://www.amazon.com/Applied-Text-Analysis-Python-Language-Aware/dp/1491963042) [GitHub](https://github.com/foxbook/atap))
 
 #### Online resources from books
 
-* [Applied Text Analysis with Python](https://github.com/foxbook/atap)
+* 
 * [Real-World Machine Learning](https://github.com/brinkar/real-world-machine-learning)
 * [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 * [Programming Collective Intelligence](https://github.com/arthur-e/Programming-Collective-Intelligence)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
-## Version control
+## Resources for online courses
 
-* [Using GitHub Desktop with GitLab](https://community.reclaimhosting.com/t/using-github-desktop-with-gitlab/876)
+* [Introduction to data science in python](https://github.com/sidsriv/Introduction-to-Data-Science-in-python)
+
+## Data Visualization
+
+* [D3 Gallery](https://github.com/d3/d3/wiki/Gallery)
+* [Seaborn Gallery](https://seaborn.pydata.org/examples/index.html)
+* [Bokeh](https://bokeh.pydata.org/en/latest/docs/gallery.html)
 
 ## Datasets
 
@@ -58,9 +61,9 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 * [strip output from Jupyter and IPython notebooks](https://github.com/kynan/nbstripout)
 * [scrubadub - Remove personally identifiable information from free text](http://scrubadub.readthedocs.io/en/stable/index.html)
 
-## Resources for online courses
+## Articles
 
-* [Introduction to data science in python](https://github.com/sidsriv/Introduction-to-Data-Science-in-python)
+* [How to Write a Spelling Corrector - Peter Norvig](http://norvig.com/spell-correct.html)
 
 ## Natural language processing (NLP)
 
