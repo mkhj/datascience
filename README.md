@@ -20,20 +20,15 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 ## Books
 
 * [Pattern Recognition and Machine Learning - Christopher M. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
-* [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
-* [Applied Text Analysis with Python](https://www.amazon.com/Applied-Text-Analysis-Python-Language-Aware/dp/1491963042) [GitHub](https://github.com/foxbook/atap))
+* [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/index.html) ([GitHub](https://github.com/jakevdp/PythonDataScienceHandbook))
+* [Applied Text Analysis with Python](https://www.amazon.com/Applied-Text-Analysis-Python-Language-Aware/dp/1491963042) ([GitHub](https://github.com/foxbook/atap))
 
-#### Online resources from books
+## Other GitHub resources
 
-* 
+* [Introduction to data science in python](https://github.com/sidsriv/Introduction-to-Data-Science-in-python)
 * [Real-World Machine Learning](https://github.com/brinkar/real-world-machine-learning)
 * [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 * [Programming Collective Intelligence](https://github.com/arthur-e/Programming-Collective-Intelligence)
-* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-
-## Resources for online courses
-
-* [Introduction to data science in python](https://github.com/sidsriv/Introduction-to-Data-Science-in-python)
 
 ## Data Visualization
 
