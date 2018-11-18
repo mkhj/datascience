@@ -30,6 +30,10 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 * [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 * [Programming Collective Intelligence](https://github.com/arthur-e/Programming-Collective-Intelligence)
 
+## Podcasts
+
+* [DataFramed - DataCamp’s official podcast](https://www.datacamp.com/community/podcast)
+
 ## Data Visualization
 
 * [D3 Gallery](https://github.com/d3/d3/wiki/Gallery)
