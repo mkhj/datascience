@@ -66,9 +66,18 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 
 ## Natural language processing (NLP)
 
-### SpaCy
+### Packages
 
-#### Guide
+#### Sentiment analysis
+
+* [VADER Sentiment Analysis](https://github.com/cjhutto/vaderSentiment)
+* [TextBlob Sentiment Analysis](https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis)
+* [Afinn Sentiment Analysis](https://github.com/fnielsen/afinn)
+
+### Guides
+
+#### SpaCy
+
 * [Introduction to spaCy for NLP and Machine Learning](https://github.com/NSchrading/intro-spacy-nlp)
 
 ## Database & ORM
