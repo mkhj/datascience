@@ -1,5 +1,10 @@
 
-## Exploring and Preparing your Data with BigQuery
+# Data science with Google Cloud
+
+https://www.datacamp.com/community/tutorials/google-cloud-data-science
+
+
+### Exploring and Preparing your Data with BigQuery and DataPrep
 
 Notes for https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery/
 
