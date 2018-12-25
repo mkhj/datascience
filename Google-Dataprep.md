@@ -1,4 +1,6 @@
 
+## Exploring and Preparing your Data with BigQuery
+
 Notes for https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery/
 
 https://bigquery.cloud.google.com/
