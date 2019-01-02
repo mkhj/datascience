@@ -68,6 +68,8 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 
 ### Packages
 
+* [Flair](https://github.com/zalandoresearch/flair)
+
 #### Sentiment analysis
 
 * [VADER Sentiment Analysis](https://github.com/cjhutto/vaderSentiment)
