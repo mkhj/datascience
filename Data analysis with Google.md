@@ -7,8 +7,8 @@ https://bigquery.cloud.google.com/
 
 ### BigQuery resources
 
-* (BigQuery cookbook)[https://support.google.com/analytics/answer/4419694]
-* (BigQuery Public datasets)[https://cloud.google.com/bigquery/public-data/]
+* [BigQuery cookbook](https://support.google.com/analytics/answer/4419694)
+* [BigQuery Public datasets](https://cloud.google.com/bigquery/public-data/)
 
 ### Exploring and Preparing your Data with BigQuery and DataPrep
 
