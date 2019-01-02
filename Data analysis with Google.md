@@ -33,7 +33,7 @@ https://support.google.com/analytics/answer/3437719?hl=en
 
 ### Visualizing BigQuery Data
 
-* (Google Data Studio)[https://cloud.google.com/bigquery/docs/visualize-data-studio]
-* (Jupyter Notebook)[https://cloud.google.com/bigquery/docs/visualize-jupyter]
+* [Google Data Studio](https://cloud.google.com/bigquery/docs/visualize-data-studio)
+* [Jupyter Notebook](https://cloud.google.com/bigquery/docs/visualize-jupyter)
 
 
