@@ -23,7 +23,7 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 * [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/index.html) ([GitHub](https://github.com/jakevdp/PythonDataScienceHandbook))
 * [Applied Text Analysis with Python](https://www.amazon.com/Applied-Text-Analysis-Python-Language-Aware/dp/1491963042) ([GitHub](https://github.com/foxbook/atap))
 
-## Other GitHub resources
+#### Other book resources on GitHub
 
 * [Introduction to data science in python](https://github.com/sidsriv/Introduction-to-Data-Science-in-python)
 * [Real-World Machine Learning](https://github.com/brinkar/real-world-machine-learning)
