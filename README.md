@@ -29,6 +29,7 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 * [Real-World Machine Learning](https://github.com/brinkar/real-world-machine-learning)
 * [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 * [Programming Collective Intelligence](https://github.com/arthur-e/Programming-Collective-Intelligence)
+* [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book)
 
 ## Podcasts
 
