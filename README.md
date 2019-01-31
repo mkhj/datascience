@@ -40,6 +40,11 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 * [D3 Gallery](https://github.com/d3/d3/wiki/Gallery)
 * [Seaborn Gallery](https://seaborn.pydata.org/examples/index.html)
 * [Bokeh](https://bokeh.pydata.org/en/latest/docs/gallery.html)
+* [Plotly](https://plot.ly/python/)
+
+#### Articles
+
+* [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 
 ## Datasets
 
