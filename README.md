@@ -43,7 +43,7 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 
 ## Data Visualization
 
-## Dashboard
+### Dashboard
 
 * [Dash](https://plot.ly/products/dash/)
 * [Bokeh](https://bokeh.pydata.org/en/latest/docs/gallery.html)
