@@ -16,6 +16,11 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 * [Data science](https://github.com/mkhj/Data-science/tree/master/Cheat%20sheets)
 * [Python Debugger](https://github.com/mkhj/Data-science/blob/master/Cheat%20sheets/Python%20Debugger%20Cheatsheet.pdf)
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - [Table generator](https://www.tablesgenerator.com/markdown_tables)
+* [Working with DataFrames](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/)
+
+#### Pandas
+
+* [Using Python to Power Spreadsheets in Data Science](https://pandas.pydata.org/pandas-docs/stable/user_guide/style.html] e.g. styling tables
 
 ## Books
 
@@ -36,6 +41,8 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 * [DataFramed - DataCamp’s official podcast](https://www.datacamp.com/community/podcast)
 
 ## Data Visualization
+
+### Packages & frameworks 
 
 * [D3 Gallery](https://github.com/d3/d3/wiki/Gallery)
 * [Seaborn Gallery](https://seaborn.pydata.org/examples/index.html)
