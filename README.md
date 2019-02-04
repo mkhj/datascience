@@ -20,7 +20,11 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 
 #### Pandas
 
-* [Using Python to Power Spreadsheets in Data Science](https://pandas.pydata.org/pandas-docs/stable/user_guide/style.html] e.g. styling tables
+* [Using Python to Power Spreadsheets in Data Science](https://pandas.pydata.org/pandas-docs/stable/user_guide/style.html) e.g. styling tables
+
+## Podcasts
+
+* [DataFramed - DataCamp’s official podcast](https://www.datacamp.com/community/podcast)
 
 ## Books
 
@@ -36,9 +40,6 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 * [Programming Collective Intelligence](https://github.com/arthur-e/Programming-Collective-Intelligence)
 * [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book)
 
-## Podcasts
-
-* [DataFramed - DataCamp’s official podcast](https://www.datacamp.com/community/podcast)
 
 ## Data Visualization
 
@@ -68,12 +69,12 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 * [UNICEF Data](https://data.unicef.org/)
 * [IBM Sample Data Sets](https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/)
 
-## Useful packages
+## Other useful packages
 
 * [strip output from Jupyter and IPython notebooks](https://github.com/kynan/nbstripout)
 * [scrubadub - Remove personally identifiable information from free text](http://scrubadub.readthedocs.io/en/stable/index.html)
 
-## Articles
+## Other articles
 
 * [How to Write a Spelling Corrector - Peter Norvig](http://norvig.com/spell-correct.html)
 
