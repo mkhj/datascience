@@ -28,6 +28,7 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 
 ## Books
 
+* [Data Science for Business](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323)
 * [Pattern Recognition and Machine Learning - Christopher M. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 * [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/index.html) ([GitHub](https://github.com/jakevdp/PythonDataScienceHandbook))
 * [Applied Text Analysis with Python](https://www.amazon.com/Applied-Text-Analysis-Python-Language-Aware/dp/1491963042) ([GitHub](https://github.com/foxbook/atap))
