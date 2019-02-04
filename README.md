@@ -74,6 +74,11 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 * [UNICEF Data](https://data.unicef.org/)
 * [IBM Sample Data Sets](https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/)
 
+## Other GitHub resources
+
+* [Introduction to Data Science Class (NYU Stern School of Business, Spring 2018)](https://github.com/jattenberg/SternPythonDataScience2018)
+* [Introduction to Data Science Class (NYU Stern School of Business, Spring 2017)](https://github.com/mariazm/Spring2017_ProfFosterProvost)
+
 ## Other useful packages
 
 * [strip output from Jupyter and IPython notebooks](https://github.com/kynan/nbstripout)
