@@ -54,7 +54,7 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 * [D3 Gallery](https://github.com/d3/d3/wiki/Gallery)
 * [Seaborn Gallery](https://seaborn.pydata.org/examples/index.html)
 * [Plotly](https://plot.ly/python/)
-* [Datashader](http://datashader.org/)
+* [Datashader](http://datashader.org/) - [PLOTCON 2016: Peter Wang](https://www.youtube.com/watch?v=fB3cUrwxMVY)
 
 #### Articles
 
