@@ -111,7 +111,7 @@ Sent2Vec encoder, Paraphrase Identification
 #### SpaCy
 
 * [Introduction to spaCy for NLP and Machine Learning](https://github.com/NSchrading/intro-spacy-nlp)
-* [Advanced NLP with SpaCy ](https://course.spacy.io/) [https://github.com/ines/spacy-course](GitHub)
+* [Advanced NLP with SpaCy](https://course.spacy.io/) [GitHub](https://github.com/ines/spacy-course)
 
 ## Database & ORM
 
