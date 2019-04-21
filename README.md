@@ -99,6 +99,7 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 * [FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy string matching: It uses Levenshtein Distance to calculate the differences between sequences.
 * [skip-thoughts](https://github.com/ryankiros/skip-thoughts)- 
 Sent2Vec encoder, Paraphrase Identification 
+* [tesseract](https://github.com/tesseract-ocr/tesseract/wiki/TrainingTesseract-4.00)- OCR engine 
 
 #### Sentiment analysis
 
