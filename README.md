@@ -5,6 +5,7 @@
 * [Download Anaconda Distribution](https://www.anaconda.com/download/#macos)
 * [Installing Anaconda on Mac OS X](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x)
 * [Using GitHub Desktop with GitLab](https://community.reclaimhosting.com/t/using-github-desktop-with-gitlab/876)
+* [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
 
 #### Troubleshooting
 If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try executing _'source ~/.bash_profile'_
