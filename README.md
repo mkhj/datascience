@@ -61,6 +61,12 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 
 * [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 
+## Hyperparameter optimisation 
+
+* [SigOpt](https://sigopt.com/)
+* [Scikit-Optimize](https://scikit-optimize.github.io/)
+* [Hyperopt](https://github.com/hyperopt/hyperopt)
+
 ## Datasets
 
 * [FiveThirtyEight: Data and code behind the articles and graphics](https://github.com/fivethirtyeight/data)
