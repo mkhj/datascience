@@ -83,6 +83,7 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 * [IBM Sample Data Sets](https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/)
 * [3 Million Instacart Orders, Open Sourced](https://www.instacart.com/datasets/grocery-shopping-2017)
 * [YouTube-8M Dataset](https://research.google.com/youtube8m/)
+* [Azure Machine Learning Studio Sample Datasets](https://docs.microsoft.com/en-us/azure/machine-learning/studio/use-sample-datasets)
 
 ## Other GitHub resources
 
